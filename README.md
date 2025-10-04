@@ -266,9 +266,10 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
 - Email: [swastikasarkar90@gmail.com]
-- LinkedIn: Connect with me professionally
+- LinkedIn: [www.linkedin.com/in/swastika-sarkar-31a12b234]
 
 
 Thank you for your interest in this project!
+
 
 
